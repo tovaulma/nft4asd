@@ -18,3 +18,16 @@ export const links = [
         path: '/roadmap'
     }
 ]
+
+export const missions = [
+    {
+        id: 1,
+        title: "ABCDEF",
+        info: "fadfadkfjaslkfasdljkf",
+    },
+    {
+        id: 2,
+        title: "fadfas",
+        info: "gahahtaahfgafga",
+    }
+]
