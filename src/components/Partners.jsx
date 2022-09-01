@@ -1,7 +1,7 @@
 import SectionHead from "./SectionHead"
 import {FaRegHandshake} from 'react-icons/fa'
 import AS from '../images/logo_as.png'
-import ACT from '../images/logo_act.png'
+import AA from '../images/logo_aa.png'
 import BC from '../images/charity-logo.svg'
 
 const Partners = () => {
@@ -15,7 +15,7 @@ const Partners = () => {
                 <img src={AS} alt="Autism Speaks"/>
               </div>
               <div className="column">
-                <img src={ACT} alt="ACT Games"/>
+                <img src={AA} alt="The Art of Autism"/>
               </div>
               <div className="column">
                 <img src={BC} alt="ACT Games"/>
