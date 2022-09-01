@@ -6,7 +6,7 @@ const MainHeader = () => {
     <header className="main__header">
       <div className="container main__header-container">
         <div className="main__header-left">
-          <h4>#1000NFTsForASD</h4>
+          <h4>#1000NFT4ASD</h4>
           <h1>Join Us</h1>
           <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis fermentum suscipit mauris, id finibus libero iaculis a. Morbi condimentum iaculis tellus sit amet dictum. Aliquam pretium viverra erat in malesuada. Phasellus tincidunt, odio sed consectetur tincidunt, dolor eros porttitor nulla, quis sagittis odio urna nec purus. Nam eu ex eget mauris maximus aliquet ac eget lacus.

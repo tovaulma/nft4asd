@@ -22,22 +22,22 @@ export const links = [
 export const missions = [
     {
         id: 1,
-        title: "Value One",
+        title: "Advocacy",
         info: "fadfadkfjaslkfasdljkf",
     },
     {
         id: 2,
-        title: "Value Two",
+        title: "Education",
         info: "gahahtaahfgafga",
     },
     {
         id: 3,
-        title: "Value Three",
+        title: "Thoughtful Awareness",
         info: "gahahtaahfgafga",
     },
     {
         id: 4,
-        title: "Value Four",
+        title: "Hope",
         info: "gahahtaahfgafga",
     }
 ]
