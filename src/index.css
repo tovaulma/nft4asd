@@ -9,10 +9,10 @@
 }
 
 :root {
-    --primary-hue: 210;
-    --gray-hue: 240;
-    --color-primary: hsl(var(--primary-hue), 100%, 50%);
-    --color-primary-variant: hsl(var(--primary-hue), 100%, 65%);
+    --primary-hue: 18;
+    --gray-hue: 337;
+    --color-primary: hsl(var(--primary-hue), 60%, 82%);
+    --color-primary-variant: hsl(var(--primary-hue), 35%, 90%);
     --color-secondary: #ffb116;
     --color-gray-100: hsl(var(--gray-hue), 47%, 94%);
     --color-gray-200: hsl(var(--gray-hue), 26%, 75%);
@@ -63,4 +63,35 @@ img {
     display: block;
     object-fit: cover;
     width: 100%;
+}
+
+
+.btn {
+    color: var(--color-gray-100);
+    width: fit-content;
+    margin: 0 auto;
+    padding: 0.9rem 2rem;
+    background: var(--color-primary);
+    border-radius: 1.5rem;
+    transition: var(--transition);
+}
+
+.btn:hover {
+    background: var(--color-secondary);
+    color: var(--color-gray-600)
+}
+
+.btn.lg {
+    padding: 1.2rem 3rem;
+    border-radius: 2rem;
+    font-size: 1.1rem;
+}
+
+.btn.sm {
+    padding: 0.4rem 1.2rem;
+    font-size: 0.9rem;
+}
+
+.btn.sm:hover {
+    background: var(--color-gray-100);
 }
