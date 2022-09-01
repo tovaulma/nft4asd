@@ -1,12 +1,11 @@
-
+import SectionHead from "./SectionHead"
+import {FaRegHandshake} from 'react-icons/fa'
 
 const Partners = () => {
   return (
     <section className="partners">
         <div className="container partners__container">
-            <div className="partners__head">
-                <h2>Partners</h2>
-            </div>
+            <SectionHead icon={<FaRegHandshake/>} title="Our Partners"/>
         </div>
     </section>
   )
