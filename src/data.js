@@ -84,3 +84,22 @@ export const faqs = [
         answer: "According to Britannica, an NFT (short for non-fungible token) is a digital asset that has been authenticated using blockchain technology."
     }
 ]
+
+export const roadmapData = [
+    {
+        text: "fadfasdf",
+        date: "Q3 2022",
+        category: {
+            tag: 'medium',
+            color: '#018f69'
+        }
+    },
+    {
+        text: "gafhafga",
+        date: "Q4 2022",
+        category: {
+            tag: 'medium',
+            color: '#018f69'
+        }
+    }
+]
