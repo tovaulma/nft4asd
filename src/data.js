@@ -10,8 +10,8 @@ export const links = [
         path: '/about'
     },
     {
-        name: "Contact",
-        path: '/contact'
+        name: "Autism Spectrum Disorder",
+        path: '/autism'
     },
     {
         name: "Roadmap",
