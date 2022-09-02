@@ -32,7 +32,7 @@ body {
     color: var(--color-gray-200);
     line-height: 1.7;
     overflow-x: hidden;
-    background: var(--color-gray-600)
+    background-color: #a9d2ca
 
 }
 
@@ -59,6 +59,10 @@ a {
     color: var(--color-gray-100);
 }
 
+p {
+    color:#3c424d;
+}
+
 img {
     display: block;
     object-fit: cover;
@@ -67,11 +71,11 @@ img {
 
 
 .btn {
-    color: var(--color-gray-100);
+    color: white;
     width: fit-content;
     margin: 0 auto;
     padding: 0.9rem 2rem;
-    background: var(--color-primary);
+    background: #23a79c;
     border-radius: 1.5rem;
     transition: var(--transition);
 }
@@ -103,17 +107,17 @@ img {
 }
 
 .section__head span {
-    background: var(--color-gray-500);
+    background: #23a79c;
     padding: 0.8rem;
     border-radius: 1rem;
-    color: var(--color-secondary);
+    color: white;
     font-size: 1.5rem;
 }
 
 
 
 .card {
-    background: var(--color-gray-500);
+    background: #23a79c;
     border: 2px solid transparent;
     text-align: center;
     padding: 3rem 2rem;
@@ -123,7 +127,7 @@ img {
 
 .card:hover {
     background: transparent;
-    border-color: var(--color-gray-400);
+    border-color: #23a79c;
     cursor: default;
 }
 
@@ -151,6 +155,7 @@ img {
     margin-top: 1rem;
     display: block;
     font-weight: 300;
+    color: white;
 }
 
 .header {

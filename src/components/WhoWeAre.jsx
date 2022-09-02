@@ -6,7 +6,7 @@ import Px1 from '../images/px1.png'
 const WhoWeAre = () => {
   return (
     <div className='container whoweare__container'>
-        <SectionHead icon={<HiOutlineUserGroup/>} title="Who We Are"/>
+        <SectionHead icon={<HiOutlineUserGroup/>} title="Meet the Team"/>
         <div className='whoweare__wrapper'>
             <div className='bio'>
                 <img src={Px1} alt="person"/>
