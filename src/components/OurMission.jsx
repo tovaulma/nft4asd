@@ -7,7 +7,7 @@ const OurMission = () => {
   return (
     <section className="mission">
         <div className="container mission__container">
-          <SectionHead icon={<WiSunset/>} title="Our Mission"/>
+          <SectionHead icon={<WiSunset/>} title="Our Values"/>
           <div className='mission__wrapper'>
               {
                 missions.map(({id, title, info}) => {

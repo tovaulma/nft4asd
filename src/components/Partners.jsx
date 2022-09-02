@@ -8,7 +8,7 @@ const Partners = () => {
   return (
     <section className="partners">
         <div className="container partners__container">
-          <SectionHead icon={<FaRegHandshake/>} title="Our Partners"/>
+          <SectionHead icon={<FaRegHandshake/>} title="Partners"/>
           <div className="partner__wrapper">
             <div className="row">
               <ul className="column">

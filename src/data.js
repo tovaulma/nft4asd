@@ -22,23 +22,23 @@ export const links = [
 export const missions = [
     {
         id: 1,
-        title: "Advocacy",
-        info: "fadfadkfjaslkfasdljkf",
+        title: "Excellence",
+        info: "Collaborating with agencies and partners to embrace diversity in our society.",
     },
     {
         id: 2,
-        title: "Education",
-        info: "gahahtaahfgafga",
+        title: "Awareness",
+        info: "Educating people on challenges autism brings and advocating for those in need.",
     },
     {
         id: 3,
-        title: "Thoughtful Awareness",
-        info: "gahahtaahfgafga",
+        title: "Innovation",
+        info: "Using blockchain technology to promote our project to the global community.",
     },
     {
         id: 4,
-        title: "Hope",
-        info: "gahahtaahfgafga",
+        title: "Integrity",
+        info: "Building in the community through transparency in our processes",
     }
 ]
 

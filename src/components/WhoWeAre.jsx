@@ -2,6 +2,7 @@ import React from 'react'
 import SectionHead from './SectionHead'
 import {HiOutlineUserGroup} from 'react-icons/hi'
 import Px1 from '../images/px1.png'
+import Px2 from '../images/px2.png'
 
 const WhoWeAre = () => {
   return (
@@ -17,7 +18,7 @@ const WhoWeAre = () => {
                 </div>
             </div>
             <div className='bio'>
-                <img src={Px1} alt="person"/>
+                <img src={Px2} alt="person"/>
                 <div className='content'>
                     <h2>Ryan Zhao</h2>
                     <h3>Head of Blockchain</h3>
