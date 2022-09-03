@@ -16,6 +16,10 @@ export const links = [
     {
         name: "Roadmap",
         path: '/roadmap'
+    },
+    {
+        name: "Login",
+        path: '/login'
     }
 ]
 
